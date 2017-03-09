@@ -1,0 +1,4 @@
+c:\users\orpo\documents\visual studio 2010\Projects\psg-it\psg-it\bin\psg-it.dll
+c:\users\orpo\documents\visual studio 2010\Projects\psg-it\psg-it\bin\psg-it.pdb
+c:\users\orpo\documents\visual studio 2010\Projects\psg-it\psg-it\obj\Debug\psg-it.dll
+c:\users\orpo\documents\visual studio 2010\Projects\psg-it\psg-it\obj\Debug\psg-it.pdb
